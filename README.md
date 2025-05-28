@@ -7,7 +7,6 @@ This script demonstrates a simple interaction with OpenAI's `gpt-3.5-turbo` mode
 - Takes a user prompt via the console.
 - Uses a fixed system prompt (`"You are a helpful assistant."`).
 - Calls the OpenAI API with both prompts.
-- Prints the assistant’s response.
 - Displays token usage (prompt tokens, completion tokens, and total tokens).
 
 ---
