@@ -17,5 +17,5 @@ This script demonstrates a simple interaction with OpenAI's `gpt-3.5-turbo` mode
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/first-openai-api-call.git
+git clone "https://github.com/saikumar77777/Day-1_First_api_call.git"
 cd first-openai-api-call
